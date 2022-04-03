@@ -11,3 +11,4 @@ libs/
 .Rhistory
 .RData
 .Ruserdata" > .gitignore
+.DS_Store
