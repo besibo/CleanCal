@@ -28,7 +28,7 @@ The `index.Rmd` file is required, and is also your first book chapter. It will b
 
 ## Data
 
-You can find my academic calendar here: [`res.ics``](Data/res.ics)
+Placeholder for my academic calendar. [](Data/res.ics)
 
 
 ## Render book
