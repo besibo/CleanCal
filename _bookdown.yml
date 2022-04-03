@@ -1,4 +1,7 @@
+book_filename: "CleanCal"
 delete_merged_file: true
+output_dir: _docs
+rmd_files: ["index.Rmd", "01-intro.Rmd"]
 language:
   ui:
-    chapter_name: "Chapter "
+    chapter_name: ""
