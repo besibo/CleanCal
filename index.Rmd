@@ -1,9 +1,15 @@
 --- 
-title: "An empty book"
+title: "An ampty book"
+author: "Benoît Simon-Bouhet"
+date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 url: 'https\://besibo.github.io/CleanCal/'
+description: |
+  This is just a placeholder for a clean calendar
 link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-This is just to host a clean version of my academic calendar
+# Do we need a title?
+
+This is just to host a clean calendrier
