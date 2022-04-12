@@ -4,4 +4,3 @@
 .RData
 .Ruserdata" > .gitignore
 .DS_Store
-docs/.DS_Store
