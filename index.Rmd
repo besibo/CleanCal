@@ -1,5 +1,5 @@
 --- 
-title: "An ampty book"
+title: "An empty book"
 author: "Benoît Simon-Bouhet"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
