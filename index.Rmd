@@ -12,4 +12,4 @@ github-repo: rstudio/bookdown-demo
 
 # Do we need a title?
 
-This is just to host a clean calendrier
+This is just to host a clean version of my [academic calendar](data/res.ics)
