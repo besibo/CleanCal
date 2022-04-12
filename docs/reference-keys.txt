@@ -1,7 +1,0 @@
-about
-usage
-data
-render-book
-preview-book
-hello-bookdown
-a-section
