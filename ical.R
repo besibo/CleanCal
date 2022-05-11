@@ -13,4 +13,4 @@ ic_read("https://apps.univ-lr.fr/serveur-planning/wa/iCalendarOccupations?login=
          DESCRIPTION = str_remove(DESCRIPTION, "B.Simon-bouhet  - "),
          SUMMARY = str_remove(SUMMARY, "^C\\d{1}-.{14}"),
          DESCRIPTION = str_remove(DESCRIPTION, "^C\\d{1}-.{14}")) %>% 
-  ic_write(file = "~/Desktop/CleanCal/docs/data/res.ics")
+  ic_write(file = "/Users/bsimonbo/Documents/TAF/Enseignements/CleanCal/docs/data/res.ics")
