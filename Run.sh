@@ -1,6 +1,6 @@
 #!/bin/bash
 export PATH="/usr/local/bin:$PATH"
-Rscript /Users/bsimonbo/Documents/TAF/Enseignements/CleanCal/ical.R
+Rscript ical.R
 # cd ~/Desktop/CleanCal/
 # Rscript -e "bookdown::render_book()"
 git add .
