@@ -1,7 +1,7 @@
 #!/bin/bash
 export PATH="/usr/local/bin:$PATH"
 Rscript ical.R
-# cd ~/Desktop/CleanCal/
+cd /Users/bsimonbo/Documents/TAF/Enseignements/CleanCal/
 # Rscript -e "bookdown::render_book()"
 git add .
 git commit -m "Update calendar"
