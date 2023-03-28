@@ -18,4 +18,3 @@ ic_read("https://apps.univ-lr.fr/serveur-planning/wa/iCalendarOccupations?login=
          SUMMARY = str_remove(SUMMARY, "\\d{3}-\\d{1}-\\d{2}.{3}"),
          DESCRIPTION = str_remove(DESCRIPTION, "\\d{3}-\\d{1}-\\d{2}.{3}"),) %>% 
   ic_write(file = "/Users/bsimonbo/Documents/TAF/Enseignements/CleanCal/docs/data/res.ics")
-`
