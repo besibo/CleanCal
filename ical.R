@@ -11,6 +11,7 @@ library(tidyverse)
 ic_read("https://apps.univ-lr.fr/serveur-planning/wa/iCalendarOccupations?login=bsimonbo") %>% 
   mutate(SUMMARY = str_remove(SUMMARY, "^B.Simon-bouhet  - "),
          SUMMARY = str_remove(SUMMARY, "^B. Simon-bouhet  - "),
+         SUMMARY = str_remove(SUMMARY, "^C\\d{1}-.{14}"),
          SUMMARY = str_remove(SUMMARY, "\\d{3}-\\d{1}-\\d{2}.{3}"),
          DESCRIPTION = str_remove(DESCRIPTION, "B.Simon-bouhet  - "),
          DESCRIPTION = str_remove(DESCRIPTION, "^C\\d{1}-.{14}"),
