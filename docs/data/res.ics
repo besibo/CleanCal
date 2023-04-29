@@ -2955,7 +2955,7 @@ DTSTAMP:20230429T141502Z
 UID:1820851abff61a975644ae7729209249---2371131
 DTSTART;TZID=Europe/Paris:20210901T150000
 DTEND;TZID=Europe/Paris:20210901T163000
-SUMMARY:TP : Communication scientifique
+SUMMARY:C1-280101-ECOL - TP : Communication scientifique
   et technique \,  (TP_GEEL1) - ORB : C29 - [edt]
 DESCRIPTION:C1-280101-ECOL - TP : Communication scientif
  ique et technique \,  (TP_GEEL1) - ORB : C29 - [edt]
@@ -2975,7 +2975,7 @@ DTSTAMP:20230429T141502Z
 UID:184c3f3201ed760a321eaa73f3cd9723---2371134
 DTSTART;TZID=Europe/Paris:20210902T094500
 DTEND;TZID=Europe/Paris:20210902T111500
-SUMMARY:TP : Communication scientifique
+SUMMARY:C1-280101-ECOL - TP : Communication scientifique
   et technique \,  (TP_GEEL2) - ORB : C29 - [edt]
 DESCRIPTION:C1-280101-ECOL - TP : Communication scientif
  ique et technique \,  (TP_GEEL2) - ORB : C29 - [edt]
@@ -3015,7 +3015,7 @@ DTSTAMP:20230429T141502Z
 UID:3a09e592e714e810d466001fe96b9e04---2371129
 DTSTART;TZID=Europe/Paris:20210901T131500
 DTEND;TZID=Europe/Paris:20210901T144500
-SUMMARY:TP : Communication scientifique
+SUMMARY:C1-280101-ECOL - TP : Communication scientifique
   et technique \,  (TP_GEEL1) - ORB : C29 - [edt]
 DESCRIPTION:C1-280101-ECOL - TP : Communication scientif
  ique et technique \,  (TP_GEEL1) - ORB : C29 - [edt]
@@ -3035,7 +3035,7 @@ DTSTAMP:20230429T141502Z
 UID:f035e456a354eb81f5a8e7b26250a124---2371142
 DTSTART;TZID=Europe/Paris:20210903T080000
 DTEND;TZID=Europe/Paris:20210903T093000
-SUMMARY:TP : Communication scientifique
+SUMMARY:C1-280101-ECOL - TP : Communication scientifique
   et technique \,  (TP_GEEL2) - PAS : 015 - [edt]
 DESCRIPTION:C1-280101-ECOL - TP : Communication scientif
  ique et technique \,  (TP_GEEL2) - PAS : 015 - [edt]
@@ -3055,7 +3055,7 @@ DTSTAMP:20230429T141502Z
 UID:2f730e5509e4f7fa36060e70e8f756ff---2371598
 DTSTART;TZID=Europe/Paris:20210902T131500
 DTEND;TZID=Europe/Paris:20210902T144500
-SUMMARY:TP : Communication scientifique
+SUMMARY:C1-280101-ECOL - TP : Communication scientifique
   et technique \,  (TP_MANE) - ORB : C29 - [edt]
 DESCRIPTION:C1-280101-ECOL - TP : Communication scientif
  ique et technique \,  (TP_MANE) - ORB : C29 - [edt]
@@ -3075,7 +3075,7 @@ DTSTAMP:20230429T141502Z
 UID:d6a070eaf58f8aa8250d223ea8e760f4---2371135
 DTSTART;TZID=Europe/Paris:20210902T080000
 DTEND;TZID=Europe/Paris:20210902T093000
-SUMMARY:TP : Communication scientifique
+SUMMARY:C1-280101-ECOL - TP : Communication scientifique
   et technique \,  (TP_GEEL2) - ORB : C29 - [edt]
 DESCRIPTION:C1-280101-ECOL - TP : Communication scientif
  ique et technique \,  (TP_GEEL2) - ORB : C29 - [edt]
@@ -3095,7 +3095,7 @@ DTSTAMP:20230429T141502Z
 UID:2c545875338ddf22580cf7bd16f3c4c9---2371141
 DTSTART;TZID=Europe/Paris:20210903T094500
 DTEND;TZID=Europe/Paris:20210903T111500
-SUMMARY:TP : Communication scientifique
+SUMMARY:C1-280101-ECOL - TP : Communication scientifique
   et technique \,  (TP_GEEL1) - PAS : 015 - [edt]
 DESCRIPTION:C1-280101-ECOL - TP : Communication scientif
  ique et technique \,  (TP_GEEL1) - PAS : 015 - [edt]
@@ -3115,7 +3115,7 @@ DTSTAMP:20230429T141502Z
 UID:e99aee6f1bc000c27f385ad5f3d5d1fc---2371612
 DTSTART;TZID=Europe/Paris:20210902T150000
 DTEND;TZID=Europe/Paris:20210902T163000
-SUMMARY:TP : Communication scientifique
+SUMMARY:C1-280101-ECOL - TP : Communication scientifique
   et technique \,  (TP_MANE) - ORB : C29 - [edt]
 DESCRIPTION:C1-280101-ECOL - TP : Communication scientif
  ique et technique \,  (TP_MANE) - ORB : C29 - [edt]
@@ -3135,7 +3135,7 @@ DTSTAMP:20230429T141502Z
 UID:b107ad67353a6d5e0f15bbb9f628e2b1---2371934
 DTSTART;TZID=Europe/Paris:20210906T094500
 DTEND;TZID=Europe/Paris:20210906T111500
-SUMMARY:TP : Communication scientifique
+SUMMARY:C1-280101-ECOL - TP : Communication scientifique
   et technique \,  (TP_GAGL) - ORB : C29 - [edt]
 DESCRIPTION:C1-280101-ECOL - TP : Communication scientif
  ique et technique \,  (TP_GAGL) - ORB : C29 - [edt]
@@ -3907,7 +3907,7 @@ DTSTAMP:20230429T141502Z
 UID:03a440436d1641c85262f951e9386202---2411977
 DTSTART;TZID=Europe/Paris:20210908T094500
 DTEND;TZID=Europe/Paris:20210908T111500
-SUMMARY:CM : Analyse de données/Data an
+SUMMARY:C1-281112-ECOL - CM : Analyse de données/Data an
  alysis - ORB : C01 - [edt]
 DESCRIPTION:C1-281112-ECOL - CM : Analyse de données/Dat
  a analysis - ORB : C01 - [edt]
@@ -3927,7 +3927,7 @@ DTSTAMP:20230429T141502Z
 UID:ca5bf79b7fdda18f66f94142f494a289---2411991
 DTSTART;TZID=Europe/Paris:20210929T094500
 DTEND;TZID=Europe/Paris:20210929T111500
-SUMMARY:TEA : Analyse de données/Data a
+SUMMARY:C1-281112-ECOL - TEA : Analyse de données/Data a
  nalysis - ORB : B01 - [edt]
 DESCRIPTION:C1-281112-ECOL - TEA : Analyse de données/Da
  ta analysis - ORB : B01 - [edt]
@@ -3947,7 +3947,7 @@ DTSTAMP:20230429T141502Z
 UID:752c987fbc1af3425f39a08e491c93be---2411997
 DTSTART;TZID=Europe/Paris:20211001T113000
 DTEND;TZID=Europe/Paris:20211001T130000
-SUMMARY:TP : Analyse de données/Data an
+SUMMARY:C1-281112-ECOL - TP : Analyse de données/Data an
  alysis \,  (TP_GEEL1) \,  (TP_GEEL2) - PAS : 017 - [edt]
 DESCRIPTION:C1-281112-ECOL - TP : Analyse de données/Dat
  a analysis \,  (TP_GEEL1) \,  (TP_GEEL2) - PAS : 017 - [edt]
@@ -3967,7 +3967,7 @@ DTSTAMP:20230429T141502Z
 UID:fc7de6e3023100110925f133aa452bed---2411998
 DTSTART;TZID=Europe/Paris:20211001T094500
 DTEND;TZID=Europe/Paris:20211001T111500
-SUMMARY:TP : Analyse de données/Data an
+SUMMARY:C1-281112-ECOL - TP : Analyse de données/Data an
  alysis \,  (TP_GEEL1) \,  (TP_GEEL2) - PAS : 017 - [edt]
 DESCRIPTION:C1-281112-ECOL - TP : Analyse de données/Dat
  a analysis \,  (TP_GEEL1) \,  (TP_GEEL2) - PAS : 017 - [edt]
@@ -3987,7 +3987,7 @@ DTSTAMP:20230429T141502Z
 UID:2a4951ba09423f390a5df534989ce881---2399334
 DTSTART;TZID=Europe/Paris:20210929T164500
 DTEND;TZID=Europe/Paris:20210929T181500
-SUMMARY:TP : Analyse de données/Data an
+SUMMARY:C1-281112-ECOL - TP : Analyse de données/Data an
  alysis \,  (TP_GEEL2) \,  (TP_GEEL1) - ORB : C29 - [edt]
 DESCRIPTION:C1-281112-ECOL - TP : Analyse de données/Dat
  a analysis \,  (TP_GEEL2) \,  (TP_GEEL1) - ORB : C29 - [edt]
@@ -4007,7 +4007,7 @@ DTSTAMP:20230429T141502Z
 UID:eaf7adef411d4e76c0e35b3cbb651643---2399946
 DTSTART;TZID=Europe/Paris:20210929T080000
 DTEND;TZID=Europe/Paris:20210929T093000
-SUMMARY:TEA : Analyse de données/Data a
+SUMMARY:C1-281112-ECOL - TEA : Analyse de données/Data a
  nalysis - ORB : C02 - [edt]
 DESCRIPTION:C1-281112-ECOL - TEA : Analyse de données/Da
  ta analysis - ORB : C02 - [edt]
@@ -4027,7 +4027,7 @@ DTSTAMP:20230429T141502Z
 UID:99bac3c99bff00eb61eaff86e33dfca4---2399976
 DTSTART;TZID=Europe/Paris:20210930T083000
 DTEND;TZID=Europe/Paris:20210930T093000
-SUMMARY:TEA : Analyse de données/Data a
+SUMMARY:C1-281112-ECOL - TEA : Analyse de données/Data a
  nalysis - ORB : C29 - [edt]
 DESCRIPTION:C1-281112-ECOL - TEA : Analyse de données/Da
  ta analysis - ORB : C29 - [edt]
@@ -4047,7 +4047,7 @@ DTSTAMP:20230429T141502Z
 UID:bf6f2cd98d313eb280acce8e75b3198f---2411976
 DTSTART;TZID=Europe/Paris:20210908T113000
 DTEND;TZID=Europe/Paris:20210908T130000
-SUMMARY:CM : Analyse de données/Data an
+SUMMARY:C1-281112-ECOL - CM : Analyse de données/Data an
  alysis - ORB : C01 - [edt]
 DESCRIPTION:C1-281112-ECOL - CM : Analyse de données/Dat
  a analysis - ORB : C01 - [edt]
@@ -4067,7 +4067,7 @@ DTSTAMP:20230429T141502Z
 UID:b2c5c08d46fe558cb9877a0776269f7d---2398702
 DTSTART;TZID=Europe/Paris:20211004T150000
 DTEND;TZID=Europe/Paris:20211004T163000
-SUMMARY:TP : Analyse de données/Data an
+SUMMARY:C1-281112-ECOL - TP : Analyse de données/Data an
  alysis \,  (TP_GEEL2) \,  (TP_GEEL1) - ORB : B01 - [edt]
 DESCRIPTION:C1-281112-ECOL - TP : Analyse de données/Dat
  a analysis \,  (TP_GEEL2) \,  (TP_GEEL1) - ORB : B01 - [edt]
@@ -4087,7 +4087,7 @@ DTSTAMP:20230429T141502Z
 UID:5da4c87512521506b6434e17aa375846---2398703
 DTSTART;TZID=Europe/Paris:20211004T164500
 DTEND;TZID=Europe/Paris:20211004T181500
-SUMMARY:TEA : Analyse de données/Data a
+SUMMARY:C1-281112-ECOL - TEA : Analyse de données/Data a
  nalysis - ORB : B01 - [edt]
 DESCRIPTION:C1-281112-ECOL - TEA : Analyse de données/Da
  ta analysis - ORB : B01 - [edt]
@@ -4107,7 +4107,7 @@ DTSTAMP:20230429T141502Z
 UID:a6738e06195cbd5b3dce82b77693764a---2399333
 DTSTART;TZID=Europe/Paris:20210929T150000
 DTEND;TZID=Europe/Paris:20210929T163000
-SUMMARY:TP : Analyse de données/Data an
+SUMMARY:C1-281112-ECOL - TP : Analyse de données/Data an
  alysis \,  (TP_GEEL2) \,  (TP_GEEL1) - ORB : C29 - [edt]
 DESCRIPTION:C1-281112-ECOL - TP : Analyse de données/Dat
  a analysis \,  (TP_GEEL2) \,  (TP_GEEL1) - ORB : C29 - [edt]
@@ -4127,7 +4127,7 @@ DTSTAMP:20230429T141502Z
 UID:ec35e320e3f9b9f3bdb4221a987187d2---2398693
 DTSTART;TZID=Europe/Paris:20210930T113000
 DTEND;TZID=Europe/Paris:20210930T130000
-SUMMARY:TP : Analyse de données/Data an
+SUMMARY:C1-281112-ECOL - TP : Analyse de données/Data an
  alysis \,  (TP_GEEL2) \,  (TP_GEEL1) - ORB : C29 - [edt]
 DESCRIPTION:C1-281112-ECOL - TP : Analyse de données/Dat
  a analysis \,  (TP_GEEL2) \,  (TP_GEEL1) - ORB : C29 - [edt]
@@ -4147,7 +4147,7 @@ DTSTAMP:20230429T141502Z
 UID:eb62c58d181d73f385f73a9637c6f7ba---2398694
 DTSTART;TZID=Europe/Paris:20210930T094500
 DTEND;TZID=Europe/Paris:20210930T111500
-SUMMARY:TP : Analyse de données/Data an
+SUMMARY:C1-281112-ECOL - TP : Analyse de données/Data an
  alysis \,  (TP_GEEL1) \,  (TP_GEEL2) - ORB : C29 - [edt]
 DESCRIPTION:C1-281112-ECOL - TP : Analyse de données/Dat
  a analysis \,  (TP_GEEL1) \,  (TP_GEEL2) - ORB : C29 - [edt]
@@ -4167,7 +4167,7 @@ DTSTAMP:20230429T141502Z
 UID:69b58d15ee04569cbe70dca530763d69---2398699
 DTSTART;TZID=Europe/Paris:20211004T094500
 DTEND;TZID=Europe/Paris:20211004T111500
-SUMMARY:TP : Analyse de données/Data an
+SUMMARY:C1-281112-ECOL - TP : Analyse de données/Data an
  alysis \,  (TP_GEEL2) \,  (TP_GEEL1) - ORB : B01 - [edt]
 DESCRIPTION:C1-281112-ECOL - TP : Analyse de données/Dat
  a analysis \,  (TP_GEEL2) \,  (TP_GEEL1) - ORB : B01 - [edt]
@@ -4187,7 +4187,7 @@ DTSTAMP:20230429T141502Z
 UID:db9726684804440a6fd92370003f54e8---2398701
 DTSTART;TZID=Europe/Paris:20211004T113000
 DTEND;TZID=Europe/Paris:20211004T130000
-SUMMARY:TEA : Analyse de données/Data a
+SUMMARY:C1-281112-ECOL - TEA : Analyse de données/Data a
  nalysis - ORB : B01 - [edt]
 DESCRIPTION:C1-281112-ECOL - TEA : Analyse de données/Da
  ta analysis - ORB : B01 - [edt]
@@ -4207,7 +4207,7 @@ DTSTAMP:20230429T141502Z
 UID:a1396236c74518b589e1d980de640a9b---2397612
 DTSTART;TZID=Europe/Paris:20211020T094500
 DTEND;TZID=Europe/Paris:20211020T111500
-SUMMARY:CM : Population dynamics \,  (C
+SUMMARY:C1-170511-BIOL - CM : Population dynamics \,  (C
  M_S5) - ORB : Amphi 300 - [edt]
 DESCRIPTION:C1-170511-BIOL - CM : Population dynamics \,
    (CM_S5) - ORB : Amphi 300 - [edt]
@@ -4245,7 +4245,7 @@ DTSTAMP:20230429T141502Z
 UID:2cba45c8fed69946ff6aa660a68e5ebd---2398686
 DTSTART;TZID=Europe/Paris:20210929T113000
 DTEND;TZID=Europe/Paris:20210929T130000
-SUMMARY:TEA : Analyse de données/Data a
+SUMMARY:C1-281112-ECOL - TEA : Analyse de données/Data a
  nalysis - ORB : B01 - [edt]
 DESCRIPTION:C1-281112-ECOL - TEA : Analyse de données/Da
  ta analysis - ORB : B01 - [edt]
@@ -4265,7 +4265,7 @@ DTSTAMP:20230429T141502Z
 UID:60af2a454d9cf3af26e1b46460c47c1b---2450372
 DTSTART;TZID=Europe/Paris:20211008T094500
 DTEND;TZID=Europe/Paris:20211008T111500
-SUMMARY:TP : Analyse de données/Data an
+SUMMARY:C1-281112-ECOL - TP : Analyse de données/Data an
  alysis \,  (TP_GEEL1) \,  (TP_GEEL2) - ORB : C02 - [edt]
 DESCRIPTION:C1-281112-ECOL - TP : Analyse de données/Dat
  a analysis \,  (TP_GEEL1) \,  (TP_GEEL2) - ORB : C02 - [edt]
@@ -4389,7 +4389,7 @@ DTSTAMP:20230429T141502Z
 UID:0843a8c2fd1ad9e7356f5f945506ebe0---2453415
 DTSTART;TZID=Europe/Paris:20211006T094500
 DTEND;TZID=Europe/Paris:20211006T111500
-SUMMARY:TP : Analyse de données/Data an
+SUMMARY:C1-281112-ECOL - TP : Analyse de données/Data an
  alysis \,  (TP_GEEL2) \,  (TP_GEEL1) - FL1 : B105 - [edt]
 DESCRIPTION:C1-281112-ECOL - TP : Analyse de données/Dat
  a analysis \,  (TP_GEEL2) \,  (TP_GEEL1) - FL1 : B105 - [edt]
@@ -4409,7 +4409,7 @@ DTSTAMP:20230429T141502Z
 UID:65615deabcfec65b4d176b3a0cb402e3---2453417
 DTSTART;TZID=Europe/Paris:20211006T113000
 DTEND;TZID=Europe/Paris:20211006T130000
-SUMMARY:TEA : Analyse de données/Data a
+SUMMARY:C1-281112-ECOL - TEA : Analyse de données/Data a
  nalysis - FL1 : B105 - [edt]
 DESCRIPTION:C1-281112-ECOL - TEA : Analyse de données/Da
  ta analysis - FL1 : B105 - [edt]
@@ -4429,7 +4429,7 @@ DTSTAMP:20230429T141502Z
 UID:a67b192b551cffac9f06bac3e15c2680---2453422
 DTSTART;TZID=Europe/Paris:20211006T150000
 DTEND;TZID=Europe/Paris:20211006T163000
-SUMMARY:TEA : Analyse de données/Data a
+SUMMARY:C1-281112-ECOL - TEA : Analyse de données/Data a
  nalysis - FL1 : B107 - [edt]
 DESCRIPTION:C1-281112-ECOL - TEA : Analyse de données/Da
  ta analysis - FL1 : B107 - [edt]
@@ -4449,7 +4449,7 @@ DTSTAMP:20230429T141502Z
 UID:2b160490d0b7ec7a1cae407437f4100b---2453423
 DTSTART;TZID=Europe/Paris:20211006T164500
 DTEND;TZID=Europe/Paris:20211006T181500
-SUMMARY:TEA : Analyse de données/Data a
+SUMMARY:C1-281112-ECOL - TEA : Analyse de données/Data a
  nalysis - FL1 : B107 - [edt]
 DESCRIPTION:C1-281112-ECOL - TEA : Analyse de données/Da
  ta analysis - FL1 : B107 - [edt]
@@ -4526,7 +4526,7 @@ DTSTAMP:20230429T141502Z
 UID:daf26e23a95226da6ea8dc57e5df86cc---2445181
 DTSTART;TZID=Europe/Paris:20210922T080000
 DTEND;TZID=Europe/Paris:20210922T093000
-SUMMARY:CM : Population dynamics \,  (C
+SUMMARY:C1-170511-BIOL - CM : Population dynamics \,  (C
  M_S5) - Salle : Amphi Jean Duvignaud - Bat Llas 1 [edt]
 DESCRIPTION:C1-170511-BIOL - CM : Population dynamics \,
    (CM_S5) - Salle : Amphi Jean Duvignaud - Bat Llas 1 [edt]
@@ -4620,7 +4620,7 @@ DTSTAMP:20230429T141502Z
 UID:bd65ddd31f115206cd016e814c298b6e---2439053
 DTSTART;TZID=Europe/Paris:20210920T113000
 DTEND;TZID=Europe/Paris:20210920T130000
-SUMMARY:TP : Analyse de données/Data an
+SUMMARY:C1-281112-ECOL - TP : Analyse de données/Data an
  alysis \,  (TP_GEEL2) \,  (TP_GEEL1) - ORB : C01 - [edt]
 DESCRIPTION:C1-281112-ECOL - TP : Analyse de données/Dat
  a analysis \,  (TP_GEEL2) \,  (TP_GEEL1) - ORB : C01 - [edt]
@@ -4640,7 +4640,7 @@ DTSTAMP:20230429T141502Z
 UID:7e96e839c3395755854f23b4e1708ea8---2439471
 DTSTART;TZID=Europe/Paris:20211124T080000
 DTEND;TZID=Europe/Paris:20211124T093000
-SUMMARY:CM : Population dynamics \,  (C
+SUMMARY:C1-170511-BIOL - CM : Population dynamics \,  (C
  M_S5) - ORB : Amphi 300 - [edt]
 DESCRIPTION:C1-170511-BIOL - CM : Population dynamics \,
    (CM_S5) - ORB : Amphi 300 - [edt]
@@ -4778,7 +4778,7 @@ DTSTAMP:20230429T141502Z
 UID:531136584f8fd37aa0679eecd825a9ad---2532199
 DTSTART;TZID=Europe/Paris:20220208T094500
 DTEND;TZID=Europe/Paris:20220208T124500
-SUMMARY:TD : Biométrie 3 \,  (TD_S6_4) 
+SUMMARY:C1-170621-BIOL - TD : Biométrie 3 \,  (TD_S6_4) 
  - ORB : C27 - TD 5 [edt]
 DESCRIPTION:C1-170621-BIOL - TD : Biométrie 3 \,  (TD_S6
  _4) - ORB : C27 - TD 5 [edt]
@@ -4798,7 +4798,7 @@ DTSTAMP:20230429T141502Z
 UID:274a10a3c27db7269a309133ba6bde23---2532200
 DTSTART;TZID=Europe/Paris:20220207T131500
 DTEND;TZID=Europe/Paris:20220207T161500
-SUMMARY:TD : Biométrie 3 \,  (TD_S6_1) 
+SUMMARY:C1-170621-BIOL - TD : Biométrie 3 \,  (TD_S6_1) 
  - ORB : C23 - TD 5 [edt]
 DESCRIPTION:C1-170621-BIOL - TD : Biométrie 3 \,  (TD_S6
  _1) - ORB : C23 - TD 5 [edt]
@@ -4855,7 +4855,7 @@ DTSTAMP:20230429T141502Z
 UID:c00c6afb6c350ac8996b7aed68e4eead---2490789
 DTSTART;TZID=Europe/Paris:20220328T150000
 DTEND;TZID=Europe/Paris:20220328T163000
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_4) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_4) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _4) - MSI : MSI217 - [edt]
@@ -4875,7 +4875,7 @@ DTSTAMP:20230429T141502Z
 UID:a9872d0fe254b6d807033f58fc9d6078---2490791
 DTSTART;TZID=Europe/Paris:20220401T183000
 DTEND;TZID=Europe/Paris:20220401T200000
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_5) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_5) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _5) - MSI : MSI217 - [edt]
@@ -4895,7 +4895,7 @@ DTSTAMP:20230429T141502Z
 UID:2e6f53575f0511c151fe1a47e1507ea1---2490794
 DTSTART;TZID=Europe/Paris:20220401T164500
 DTEND;TZID=Europe/Paris:20220401T181500
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_6) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_6) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _6) - MSI : MSI217 - [edt]
@@ -4915,7 +4915,7 @@ DTSTAMP:20230429T141502Z
 UID:94cae723697153d196de3e11da0368e1---2490796
 DTSTART;TZID=Europe/Paris:20220401T150000
 DTEND;TZID=Europe/Paris:20220401T163000
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_7) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_7) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _7) - MSI : MSI217 - [edt]
@@ -4935,7 +4935,7 @@ DTSTAMP:20230429T141502Z
 UID:740ffc2b648a043e4ea6479960277dea---2490716
 DTSTART;TZID=Europe/Paris:20220325T131500
 DTEND;TZID=Europe/Paris:20220325T144500
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_1) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_1) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _1) - MSI : MSI217 - [edt]
@@ -4955,7 +4955,7 @@ DTSTAMP:20230429T141502Z
 UID:fe05d62da07b460b0df9b962dc4a3ed0---2490718
 DTSTART;TZID=Europe/Paris:20220328T183000
 DTEND;TZID=Europe/Paris:20220328T200000
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_2) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_2) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _2) - MSI : MSI217 - [edt]
@@ -4975,7 +4975,7 @@ DTSTAMP:20230429T141502Z
 UID:4ffe40f297a20d5c49c8f8b0980e49b3---2490767
 DTSTART;TZID=Europe/Paris:20220328T164500
 DTEND;TZID=Europe/Paris:20220328T181500
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_3) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_3) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _3) - MSI : MSI217 - [edt]
@@ -4995,7 +4995,7 @@ DTSTAMP:20230429T141502Z
 UID:c2fae1fb2895cc506ceb5237549da4e6---2490812
 DTSTART;TZID=Europe/Paris:20220328T131500
 DTEND;TZID=Europe/Paris:20220328T144500
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_1) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_1) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _1) - MSI : MSI217 - [edt]
@@ -5015,7 +5015,7 @@ DTSTAMP:20230429T141502Z
 UID:9be8927cb8bb51ca46eaafab433b21c2---2504231
 DTSTART;TZID=Europe/Paris:20220211T131500
 DTEND;TZID=Europe/Paris:20220211T161500
-SUMMARY:TD : Biométrie 3 \,  (TD_S6_2) 
+SUMMARY:C1-170621-BIOL - TD : Biométrie 3 \,  (TD_S6_2) 
  - ORB : C28 - TD 5 [edt]
 DESCRIPTION:C1-170621-BIOL - TD : Biométrie 3 \,  (TD_S6
  _2) - ORB : C28 - TD 5 [edt]
@@ -5035,7 +5035,7 @@ DTSTAMP:20230429T141502Z
 UID:eccf9ef5b8b8f0d170b629b903075325---2504241
 DTSTART;TZID=Europe/Paris:20220207T080000
 DTEND;TZID=Europe/Paris:20220207T110000
-SUMMARY:TD : Biométrie 3 \,  (TD_S6_3) 
+SUMMARY:C1-170621-BIOL - TD : Biométrie 3 \,  (TD_S6_3) 
  - ORB : C28 - TD 5 [edt]
 DESCRIPTION:C1-170621-BIOL - TD : Biométrie 3 \,  (TD_S6
  _3) - ORB : C28 - TD 5 [edt]
@@ -5421,7 +5421,7 @@ DTSTAMP:20230429T141502Z
 UID:2ecea67d52d6f1d02214d82ad04008cb---2490668
 DTSTART;TZID=Europe/Paris:20220318T150000
 DTEND;TZID=Europe/Paris:20220318T163000
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_7) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_7) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _7) - MSI : MSI217 - [edt]
@@ -5441,7 +5441,7 @@ DTSTAMP:20230429T141502Z
 UID:80fd97362df8f78b7550833f708feb3c---2490670
 DTSTART;TZID=Europe/Paris:20220318T164500
 DTEND;TZID=Europe/Paris:20220318T181500
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_1) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_1) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _1) - MSI : MSI217 - [edt]
@@ -5461,7 +5461,7 @@ DTSTAMP:20230429T141502Z
 UID:e77c96a3e857ab0c951f85bfffb3b9c4---2490675
 DTSTART;TZID=Europe/Paris:20220321T150000
 DTEND;TZID=Europe/Paris:20220321T163000
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_4) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_4) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _4) - MSI : MSI217 - [edt]
@@ -5481,7 +5481,7 @@ DTSTAMP:20230429T141502Z
 UID:25516a7ab084043d299c04e14a71d5eb---2490678
 DTSTART;TZID=Europe/Paris:20220321T164500
 DTEND;TZID=Europe/Paris:20220321T181500
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_5) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_5) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _5) - MSI : MSI217 - [edt]
@@ -5501,7 +5501,7 @@ DTSTAMP:20230429T141502Z
 UID:1b1b21a83dea1a6f17180ab4bf130dbf---2490653
 DTSTART;TZID=Europe/Paris:20220315T150000
 DTEND;TZID=Europe/Paris:20220315T163000
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_5) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_5) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _5) - MSI : MSI217 - [edt]
@@ -5521,7 +5521,7 @@ DTSTAMP:20230429T141502Z
 UID:254e4ff8adcd51301be65d1660f56093---2490666
 DTSTART;TZID=Europe/Paris:20220315T164500
 DTEND;TZID=Europe/Paris:20220315T181500
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_6) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_6) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _6) - MSI : MSI217 - [edt]
@@ -5541,7 +5541,7 @@ DTSTAMP:20230429T141502Z
 UID:1fdad2395c153fe2f023dc49ba864072---2490679
 DTSTART;TZID=Europe/Paris:20220322T150000
 DTEND;TZID=Europe/Paris:20220322T163000
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_6) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_6) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _6) - MSI : MSI217 - [edt]
@@ -5561,7 +5561,7 @@ DTSTAMP:20230429T141502Z
 UID:e3ff79b070b08a11fdb535495e7a84e0---2490695
 DTSTART;TZID=Europe/Paris:20220322T164500
 DTEND;TZID=Europe/Paris:20220322T181500
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_7) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_7) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _7) - MSI : MSI217 - [edt]
@@ -5581,7 +5581,7 @@ DTSTAMP:20230429T141502Z
 UID:65af2f871c372488a09123172af09984---2490711
 DTSTART;TZID=Europe/Paris:20220325T150000
 DTEND;TZID=Europe/Paris:20220325T163000
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_2) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_2) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _2) - MSI : MSI217 - [edt]
@@ -5601,7 +5601,7 @@ DTSTAMP:20230429T141502Z
 UID:038f530378e12709e61d4dec14b87bea---2490713
 DTSTART;TZID=Europe/Paris:20220325T164500
 DTEND;TZID=Europe/Paris:20220325T181500
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_3) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_3) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _3) - MSI : MSI217 - [edt]
@@ -5621,7 +5621,7 @@ DTSTAMP:20230429T141502Z
 UID:83a81fbb81de8ea1ee2ce51b7d11b2f0---2490601
 DTSTART;TZID=Europe/Paris:20220307T150000
 DTEND;TZID=Europe/Paris:20220307T163000
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_2) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_2) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _2) - MSI : MSI217 - [edt]
@@ -5641,7 +5641,7 @@ DTSTAMP:20230429T141502Z
 UID:c9bc4307a90ba430c1777fa7c18625f1---2490604
 DTSTART;TZID=Europe/Paris:20220307T164500
 DTEND;TZID=Europe/Paris:20220307T181500
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_3) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_3) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _3) - MSI : MSI217 - [edt]
@@ -5661,7 +5661,7 @@ DTSTAMP:20230429T141502Z
 UID:a8eabf140b5ceacddc97b17f5553381a---2490610
 DTSTART;TZID=Europe/Paris:20220308T150000
 DTEND;TZID=Europe/Paris:20220308T163000
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_4) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_4) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _4) - MSI : MSI217 - [edt]
@@ -5681,7 +5681,7 @@ DTSTAMP:20230429T141502Z
 UID:cc2dfc05e658790cd246b5adfd52b255---2490613
 DTSTART;TZID=Europe/Paris:20220308T164500
 DTEND;TZID=Europe/Paris:20220308T181500
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_5) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_5) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _5) - MSI : MSI217 - [edt]
@@ -5701,7 +5701,7 @@ DTSTAMP:20230429T141502Z
 UID:9d5870e4b513b6b86882828d1728821c---2490597
 DTSTART;TZID=Europe/Paris:20220307T131500
 DTEND;TZID=Europe/Paris:20220307T144500
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_1) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_1) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _1) - MSI : MSI217 - [edt]
@@ -5721,7 +5721,7 @@ DTSTAMP:20230429T141502Z
 UID:61bc3aaa84823a0358e20e60325e5a20---2490651
 DTSTART;TZID=Europe/Paris:20220314T164500
 DTEND;TZID=Europe/Paris:20220314T181500
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_4) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_4) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _4) - MSI : MSI217 - [edt]
@@ -5741,7 +5741,7 @@ DTSTAMP:20230429T141502Z
 UID:0ee3fece8c23289928ee843ae6d14994---2490615
 DTSTART;TZID=Europe/Paris:20220311T150000
 DTEND;TZID=Europe/Paris:20220311T163000
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_6) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_6) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _6) - MSI : MSI217 - [edt]
@@ -5761,7 +5761,7 @@ DTSTAMP:20230429T141502Z
 UID:5b601e511a5e16b6a78ed49f2d7c770e---2490616
 DTSTART;TZID=Europe/Paris:20220311T164500
 DTEND;TZID=Europe/Paris:20220311T181500
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_7) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_7) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _7) - MSI : MSI217 - [edt]
@@ -5781,7 +5781,7 @@ DTSTAMP:20230429T141502Z
 UID:071b1749110e69830b7a7166e92c6126---2490633
 DTSTART;TZID=Europe/Paris:20220314T131500
 DTEND;TZID=Europe/Paris:20220314T144500
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_2) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_2) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _2) - MSI : MSI217 - [edt]
@@ -5801,7 +5801,7 @@ DTSTAMP:20230429T141502Z
 UID:53f05074a28e3e4a75a8f9f58b12790c---2490634
 DTSTART;TZID=Europe/Paris:20220314T150000
 DTEND;TZID=Europe/Paris:20220314T163000
-SUMMARY:TP : Biométrie 3 \,  (TP_S6_3) 
+SUMMARY:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6_3) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170621-BIOL - TP : Biométrie 3 \,  (TP_S6
  _3) - MSI : MSI217 - [edt]
@@ -5821,7 +5821,7 @@ DTSTAMP:20230429T141502Z
 UID:68b4033973b6aa5e527e5e24910ea3f2---2396123
 DTSTART;TZID=Europe/Paris:20211116T080000
 DTEND;TZID=Europe/Paris:20211116T093000
-SUMMARY:CM : Population dynamics \,  (C
+SUMMARY:C1-170511-BIOL - CM : Population dynamics \,  (C
  M_S5) - ORB : Amphi 300 - [edt]
 DESCRIPTION:C1-170511-BIOL - CM : Population dynamics \,
    (CM_S5) - ORB : Amphi 300 - [edt]
@@ -5841,7 +5841,7 @@ DTSTAMP:20230429T141502Z
 UID:da810cf0931bdacdef2e80f215951e79---2391247
 DTSTART;TZID=Europe/Paris:20210909T094500
 DTEND;TZID=Europe/Paris:20210909T111500
-SUMMARY:CM : Analyse de données/Data an
+SUMMARY:C1-281112-ECOL - CM : Analyse de données/Data an
  alysis - ORB : C02 - [edt]
 DESCRIPTION:C1-281112-ECOL - CM : Analyse de données/Dat
  a analysis - ORB : C02 - [edt]
@@ -5861,7 +5861,7 @@ DTSTAMP:20230429T141502Z
 UID:4341c04dd053dd65c4a70ded00efdc0e---2391252
 DTSTART;TZID=Europe/Paris:20210909T113000
 DTEND;TZID=Europe/Paris:20210909T130000
-SUMMARY:CM : Analyse de données/Data an
+SUMMARY:C1-281112-ECOL - CM : Analyse de données/Data an
  alysis - ORB : C02 - [edt]
 DESCRIPTION:C1-281112-ECOL - CM : Analyse de données/Dat
  a analysis - ORB : C02 - [edt]
@@ -5881,7 +5881,7 @@ DTSTAMP:20230429T141502Z
 UID:8a8b0f69e98b027966cf45f662f78252---2391282
 DTSTART;TZID=Europe/Paris:20210908T164500
 DTEND;TZID=Europe/Paris:20210908T181500
-SUMMARY:TEA : Analyse de données/Data a
+SUMMARY:C1-281112-ECOL - TEA : Analyse de données/Data a
  nalysis - ORB : C29 - [edt]
 DESCRIPTION:C1-281112-ECOL - TEA : Analyse de données/Da
  ta analysis - ORB : C29 - [edt]
@@ -5901,7 +5901,7 @@ DTSTAMP:20230429T141502Z
 UID:e4c442f9d7cd6d0b90fecf02ad0fab6e---2395845
 DTSTART;TZID=Europe/Paris:20211005T094500
 DTEND;TZID=Europe/Paris:20211005T111500
-SUMMARY:CM : Population dynamics \,  (C
+SUMMARY:C1-170511-BIOL - CM : Population dynamics \,  (C
  M_S5) - ORB : Amphi 300 - [edt]
 DESCRIPTION:C1-170511-BIOL - CM : Population dynamics \,
    (CM_S5) - ORB : Amphi 300 - [edt]
@@ -5921,7 +5921,7 @@ DTSTAMP:20230429T141502Z
 UID:4cfedbef26b62eec5dd4047a8fbf6094---2395852
 DTSTART;TZID=Europe/Paris:20211027T080000
 DTEND;TZID=Europe/Paris:20211027T093000
-SUMMARY:CM : Population dynamics \,  (C
+SUMMARY:C1-170511-BIOL - CM : Population dynamics \,  (C
  M_S5) - ORB : Amphi 300 - [edt]
 DESCRIPTION:C1-170511-BIOL - CM : Population dynamics \,
    (CM_S5) - ORB : Amphi 300 - [edt]
@@ -5941,7 +5941,7 @@ DTSTAMP:20230429T141502Z
 UID:e9233b2dba7f6070596e9bdbb95439f2---2395853
 DTSTART;TZID=Europe/Paris:20211013T080000
 DTEND;TZID=Europe/Paris:20211013T093000
-SUMMARY:CM : Population dynamics \,  (C
+SUMMARY:C1-170511-BIOL - CM : Population dynamics \,  (C
  M_S5) - ORB : Amphi 300 - [edt]
 DESCRIPTION:C1-170511-BIOL - CM : Population dynamics \,
    (CM_S5) - ORB : Amphi 300 - [edt]
@@ -5961,7 +5961,7 @@ DTSTAMP:20230429T141502Z
 UID:47a0ca042cf5308baace2de2ee7f83f7---2395989
 DTSTART;TZID=Europe/Paris:20211019T080000
 DTEND;TZID=Europe/Paris:20211019T093000
-SUMMARY:CM : Population dynamics \,  (C
+SUMMARY:C1-170511-BIOL - CM : Population dynamics \,  (C
  M_S5) - ORB : Amphi 300 - [edt]
 DESCRIPTION:C1-170511-BIOL - CM : Population dynamics \,
    (CM_S5) - ORB : Amphi 300 - [edt]
@@ -5981,7 +5981,7 @@ DTSTAMP:20230429T141502Z
 UID:82f753784ee915ed9c94324e07e823dd---2391765
 DTSTART;TZID=Europe/Paris:20211008T113000
 DTEND;TZID=Europe/Paris:20211008T130000
-SUMMARY:TEA : Analyse de données/Data a
+SUMMARY:C1-281112-ECOL - TEA : Analyse de données/Data a
  nalysis - ORB : C02 - [edt]
 DESCRIPTION:C1-281112-ECOL - TEA : Analyse de données/Da
  ta analysis - ORB : C02 - [edt]
@@ -6001,7 +6001,7 @@ DTSTAMP:20230429T141502Z
 UID:3cbbf08c2be5b03250aec83aca1dd5d9---2395154
 DTSTART;TZID=Europe/Paris:20211001T150000
 DTEND;TZID=Europe/Paris:20211001T163000
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_1) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_1) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _1) - MSI : MSI217 - [edt]
@@ -6021,7 +6021,7 @@ DTSTAMP:20230429T141502Z
 UID:e4da56c6a7b1d56c6e13dff4a0bdafc2---2395155
 DTSTART;TZID=Europe/Paris:20210928T131500
 DTEND;TZID=Europe/Paris:20210928T144500
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_7) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_7) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _7) - MSI : MSI217 - [edt]
@@ -6041,7 +6041,7 @@ DTSTAMP:20230429T141502Z
 UID:eac0126c549a95174e4446284349964c---2395160
 DTSTART;TZID=Europe/Paris:20211001T164500
 DTEND;TZID=Europe/Paris:20211001T181500
-SUMMARY:TEA : Biométrie 2 \,  (TP_S5_1)
+SUMMARY:C1-170512-BIOL - TEA : Biométrie 2 \,  (TP_S5_1)
   - Distanciel [edt]
 DESCRIPTION:C1-170512-BIOL - TEA : Biométrie 2 \,  (TP_S
  5_1) - Distanciel [edt]
@@ -6081,7 +6081,7 @@ DTSTAMP:20230429T141502Z
 UID:5ded1c8a0dff5822038a1797184f1b59---2390555
 DTSTART;TZID=Europe/Paris:20210908T150000
 DTEND;TZID=Europe/Paris:20210908T163000
-SUMMARY:TP : Analyse de données/Data an
+SUMMARY:C1-281112-ECOL - TP : Analyse de données/Data an
  alysis \,  (TP_GEEL1) \,  (TP_GEEL2) - ORB : C29 - [edt]
 DESCRIPTION:C1-281112-ECOL - TP : Analyse de données/Dat
  a analysis \,  (TP_GEEL1) \,  (TP_GEEL2) - ORB : C29 - [edt]
@@ -6101,7 +6101,7 @@ DTSTAMP:20230429T141502Z
 UID:8f14b8dcc40f00ef9ecf68b74b466a88---2390834
 DTSTART;TZID=Europe/Paris:20210903T131500
 DTEND;TZID=Europe/Paris:20210903T144500
-SUMMARY:TP : Communication scientifique
+SUMMARY:C1-280101-ECOL - TP : Communication scientifique
   et technique \,  (TP_GGL) - ORB : C29 - [edt]
 DESCRIPTION:C1-280101-ECOL - TP : Communication scientif
  ique et technique \,  (TP_GGL) - ORB : C29 - [edt]
@@ -6121,7 +6121,7 @@ DTSTAMP:20230429T141502Z
 UID:83766b841ff3c6b2ff70745d380f383f---2391207
 DTSTART;TZID=Europe/Paris:20210907T150000
 DTEND;TZID=Europe/Paris:20210907T163000
-SUMMARY:CM : Analyse de données/Data an
+SUMMARY:C1-281112-ECOL - CM : Analyse de données/Data an
  alysis - ORB : C02 - [edt]
 DESCRIPTION:C1-281112-ECOL - CM : Analyse de données/Dat
  a analysis - ORB : C02 - [edt]
@@ -6141,7 +6141,7 @@ DTSTAMP:20230429T141502Z
 UID:433073891de6c0170cd8c65a55a0c2ef---2391208
 DTSTART;TZID=Europe/Paris:20210907T164500
 DTEND;TZID=Europe/Paris:20210907T181500
-SUMMARY:CM : Analyse de données/Data an
+SUMMARY:C1-281112-ECOL - CM : Analyse de données/Data an
  alysis - ORB : C02 - [edt]
 DESCRIPTION:C1-281112-ECOL - CM : Analyse de données/Dat
  a analysis - ORB : C02 - [edt]
@@ -6161,7 +6161,7 @@ DTSTAMP:20230429T141502Z
 UID:d1e6d2e6ca9fe52dd27bb9640aa1d29c---2391222
 DTSTART;TZID=Europe/Paris:20210910T094500
 DTEND;TZID=Europe/Paris:20210910T111500
-SUMMARY:CM : Analyse de données/Data an
+SUMMARY:C1-281112-ECOL - CM : Analyse de données/Data an
  alysis - ORB : C02 - [edt]
 DESCRIPTION:C1-281112-ECOL - CM : Analyse de données/Dat
  a analysis - ORB : C02 - [edt]
@@ -6181,7 +6181,7 @@ DTSTAMP:20230429T141502Z
 UID:623744d74ceadd617860149ac3ecd6c0---2391225
 DTSTART;TZID=Europe/Paris:20210910T113000
 DTEND;TZID=Europe/Paris:20210910T130000
-SUMMARY:CM : Analyse de données/Data an
+SUMMARY:C1-281112-ECOL - CM : Analyse de données/Data an
  alysis - ORB : C02 - [edt]
 DESCRIPTION:C1-281112-ECOL - CM : Analyse de données/Dat
  a analysis - ORB : C02 - [edt]
@@ -6201,7 +6201,7 @@ DTSTAMP:20230429T141502Z
 UID:2635f5dbc08c64cefc22f27ded4a7b59---2390837
 DTSTART;TZID=Europe/Paris:20210903T150000
 DTEND;TZID=Europe/Paris:20210903T163000
-SUMMARY:TP : Communication scientifique
+SUMMARY:C1-280101-ECOL - TP : Communication scientifique
   et technique \,  (TP_GGL) - ORB : C29 - [edt]
 DESCRIPTION:C1-280101-ECOL - TP : Communication scientif
  ique et technique \,  (TP_GGL) - ORB : C29 - [edt]
@@ -6221,7 +6221,7 @@ DTSTAMP:20230429T141502Z
 UID:e39c783ac01c70acf4b5ea16efe9852e---2391080
 DTSTART;TZID=Europe/Paris:20210909T080000
 DTEND;TZID=Europe/Paris:20210909T093000
-SUMMARY:TP : Communication scientifique
+SUMMARY:C1-280101-ECOL - TP : Communication scientifique
   et technique \,  (TP_GAGL) - PAS : 015 - [edt]
 DESCRIPTION:C1-280101-ECOL - TP : Communication scientif
  ique et technique \,  (TP_GAGL) - PAS : 015 - [edt]
@@ -6241,7 +6241,7 @@ DTSTAMP:20230429T141502Z
 UID:dd59259bded02d454dce0100fe533926---2391170
 DTSTART;TZID=Europe/Paris:20210906T150000
 DTEND;TZID=Europe/Paris:20210906T163000
-SUMMARY:CM : Analyse de données/Data an
+SUMMARY:C1-281112-ECOL - CM : Analyse de données/Data an
  alysis - ORB : C02 - [edt]
 DESCRIPTION:C1-281112-ECOL - CM : Analyse de données/Dat
  a analysis - ORB : C02 - [edt]
@@ -6261,7 +6261,7 @@ DTSTAMP:20230429T141502Z
 UID:e18b57619869e13d9f5dddfe9352a7ec---2391182
 DTSTART;TZID=Europe/Paris:20210906T164500
 DTEND;TZID=Europe/Paris:20210906T181500
-SUMMARY:CM : Analyse de données/Data an
+SUMMARY:C1-281112-ECOL - CM : Analyse de données/Data an
  alysis - ORB : C02 - [edt]
 DESCRIPTION:C1-281112-ECOL - CM : Analyse de données/Dat
  a analysis - ORB : C02 - [edt]
@@ -6281,7 +6281,7 @@ DTSTAMP:20230429T141502Z
 UID:0589c275b963ba4d1b760021bc828293---2375776
 DTSTART;TZID=Europe/Paris:20210928T183000
 DTEND;TZID=Europe/Paris:20210928T200000
-SUMMARY:TEA : Biométrie 2 \,  (TP_S5_3)
+SUMMARY:C1-170512-BIOL - TEA : Biométrie 2 \,  (TP_S5_3)
   - Distanciel [edt]
 DESCRIPTION:C1-170512-BIOL - TEA : Biométrie 2 \,  (TP_S
  5_3) - Distanciel [edt]
@@ -6301,7 +6301,7 @@ DTSTAMP:20230429T141502Z
 UID:f52545a4e4fa1a1ce209c79f5645f1ba---2375795
 DTSTART;TZID=Europe/Paris:20211122T183000
 DTEND;TZID=Europe/Paris:20211122T200000
-SUMMARY:TEA : Population dynamics \,  (
+SUMMARY:C1-170511-BIOL - TEA : Population dynamics \,  (
  TP_S5_5) - Distanciel [edt]
 DESCRIPTION:C1-170511-BIOL - TEA : Population dynamics \
  ,  (TP_S5_5) - Distanciel [edt]
@@ -6321,7 +6321,7 @@ DTSTAMP:20230429T141502Z
 UID:307ea6e874780d75bf622f02003f8db2---2375796
 DTSTART;TZID=Europe/Paris:20211115T183000
 DTEND;TZID=Europe/Paris:20211115T200000
-SUMMARY:TEA : Population dynamics \,  (
+SUMMARY:C1-170511-BIOL - TEA : Population dynamics \,  (
  TP_S5_5) - Distanciel [edt]
 DESCRIPTION:C1-170511-BIOL - TEA : Population dynamics \
  ,  (TP_S5_5) - Distanciel [edt]
@@ -6341,7 +6341,7 @@ DTSTAMP:20230429T141502Z
 UID:854bb41829142df74cc0f5ecacf79128---2375797
 DTSTART;TZID=Europe/Paris:20211129T183000
 DTEND;TZID=Europe/Paris:20211129T200000
-SUMMARY:TEA : Population dynamics \,  (
+SUMMARY:C1-170511-BIOL - TEA : Population dynamics \,  (
  TP_S5_5) - Distanciel [edt]
 DESCRIPTION:C1-170511-BIOL - TEA : Population dynamics \
  ,  (TP_S5_5) - Distanciel [edt]
@@ -6361,7 +6361,7 @@ DTSTAMP:20230429T141502Z
 UID:8d07d45df54baadad512742bf327862c---2375807
 DTSTART;TZID=Europe/Paris:20211126T164500
 DTEND;TZID=Europe/Paris:20211126T181500
-SUMMARY:TEA : Population dynamics \,  (
+SUMMARY:C1-170511-BIOL - TEA : Population dynamics \,  (
  TP_S5_1) - Distanciel [edt]
 DESCRIPTION:C1-170511-BIOL - TEA : Population dynamics \
  ,  (TP_S5_1) - Distanciel [edt]
@@ -6381,7 +6381,7 @@ DTSTAMP:20230429T141502Z
 UID:8810f67f85e4540761b4c6c59a770a49---2375808
 DTSTART;TZID=Europe/Paris:20211119T164500
 DTEND;TZID=Europe/Paris:20211119T181500
-SUMMARY:TEA : Population dynamics \,  (
+SUMMARY:C1-170511-BIOL - TEA : Population dynamics \,  (
  TP_S5_1) - Distanciel [edt]
 DESCRIPTION:C1-170511-BIOL - TEA : Population dynamics \
  ,  (TP_S5_1) - Distanciel [edt]
@@ -6401,7 +6401,7 @@ DTSTAMP:20230429T141502Z
 UID:25eaeaf03da15003fa339f547e50cd63---2375809
 DTSTART;TZID=Europe/Paris:20211203T164500
 DTEND;TZID=Europe/Paris:20211203T181500
-SUMMARY:TEA : Population dynamics \,  (
+SUMMARY:C1-170511-BIOL - TEA : Population dynamics \,  (
  TP_S5_1) - Distanciel [edt]
 DESCRIPTION:C1-170511-BIOL - TEA : Population dynamics \
  ,  (TP_S5_1) - Distanciel [edt]
@@ -6421,7 +6421,7 @@ DTSTAMP:20230429T141502Z
 UID:7488bd89904626a7075a4933dc306f73---2384521
 DTSTART;TZID=Europe/Paris:20210907T080000
 DTEND;TZID=Europe/Paris:20210907T093000
-SUMMARY:TP : Communication scientifique
+SUMMARY:C1-280101-ECOL - TP : Communication scientifique
   et technique \,  (TP_MANE) - PAS : 015 - [edt]
 DESCRIPTION:C1-280101-ECOL - TP : Communication scientif
  ique et technique \,  (TP_MANE) - PAS : 015 - [edt]
@@ -6441,7 +6441,7 @@ DTSTAMP:20230429T141502Z
 UID:77b6375447ba83471f55038a3b219a7f---2375804
 DTSTART;TZID=Europe/Paris:20211123T183000
 DTEND;TZID=Europe/Paris:20211123T200000
-SUMMARY:TEA : Population dynamics \,  (
+SUMMARY:C1-170511-BIOL - TEA : Population dynamics \,  (
  TP_S5_2) - Distanciel [edt]
 DESCRIPTION:C1-170511-BIOL - TEA : Population dynamics \
  ,  (TP_S5_2) - Distanciel [edt]
@@ -6461,7 +6461,7 @@ DTSTAMP:20230429T141502Z
 UID:2bac6b5f3bf8835aa0a9840a75ca0f9a---2375805
 DTSTART;TZID=Europe/Paris:20211130T183000
 DTEND;TZID=Europe/Paris:20211130T200000
-SUMMARY:TEA : Population dynamics \,  (
+SUMMARY:C1-170511-BIOL - TEA : Population dynamics \,  (
  TP_S5_2) - Distanciel [edt]
 DESCRIPTION:C1-170511-BIOL - TEA : Population dynamics \
  ,  (TP_S5_2) - Distanciel [edt]
@@ -6481,7 +6481,7 @@ DTSTAMP:20230429T141502Z
 UID:d4cbbfd72a91bccb3d70723400e16852---2375806
 DTSTART;TZID=Europe/Paris:20211116T183000
 DTEND;TZID=Europe/Paris:20211116T200000
-SUMMARY:TEA : Population dynamics \,  (
+SUMMARY:C1-170511-BIOL - TEA : Population dynamics \,  (
  TP_S5_2) - Distanciel [edt]
 DESCRIPTION:C1-170511-BIOL - TEA : Population dynamics \
  ,  (TP_S5_2) - Distanciel [edt]
@@ -6501,7 +6501,7 @@ DTSTAMP:20230429T141502Z
 UID:42441a931dc749563d3a3c4e63e40eb0---2375766
 DTSTART;TZID=Europe/Paris:20211015T164500
 DTEND;TZID=Europe/Paris:20211015T181500
-SUMMARY:TEA : Biométrie 2 \,  (TP_S5_7)
+SUMMARY:C1-170512-BIOL - TEA : Biométrie 2 \,  (TP_S5_7)
   - Distanciel [edt]
 DESCRIPTION:C1-170512-BIOL - TEA : Biométrie 2 \,  (TP_S
  5_7) - Distanciel [edt]
@@ -6521,7 +6521,7 @@ DTSTAMP:20230429T141502Z
 UID:85bb44cc43d2c9069b7df0dacd4cf270---2374442
 DTSTART;TZID=Europe/Paris:20211116T164500
 DTEND;TZID=Europe/Paris:20211116T181500
-SUMMARY:TP : Population dynamics \,  (T
+SUMMARY:C1-170511-BIOL - TP : Population dynamics \,  (T
  P_S5_2) - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170511-BIOL - TP : Population dynamics \,
    (TP_S5_2) - MSI : MSI217 - [edt]
@@ -6541,7 +6541,7 @@ DTSTAMP:20230429T141502Z
 UID:ea266c9ef8f91898da74e5e89c60affd---2374460
 DTSTART;TZID=Europe/Paris:20211126T150000
 DTEND;TZID=Europe/Paris:20211126T163000
-SUMMARY:TP : Population dynamics \,  (T
+SUMMARY:C1-170511-BIOL - TP : Population dynamics \,  (T
  P_S5_1) - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170511-BIOL - TP : Population dynamics \,
    (TP_S5_1) - MSI : MSI217 - [edt]
@@ -6561,7 +6561,7 @@ DTSTAMP:20230429T141502Z
 UID:b801f8c44bc748a522033c3b6f557e5f---2374461
 DTSTART;TZID=Europe/Paris:20211119T150000
 DTEND;TZID=Europe/Paris:20211119T163000
-SUMMARY:TP : Population dynamics \,  (T
+SUMMARY:C1-170511-BIOL - TP : Population dynamics \,  (T
  P_S5_1) - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170511-BIOL - TP : Population dynamics \,
    (TP_S5_1) - MSI : MSI217 - [edt]
@@ -6581,7 +6581,7 @@ DTSTAMP:20230429T141502Z
 UID:1c32f2edbf40f6e943fd18ad00ae7486---2374462
 DTSTART;TZID=Europe/Paris:20211203T150000
 DTEND;TZID=Europe/Paris:20211203T163000
-SUMMARY:TP : Population dynamics \,  (T
+SUMMARY:C1-170511-BIOL - TP : Population dynamics \,  (T
  P_S5_1) - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170511-BIOL - TP : Population dynamics \,
    (TP_S5_1) - MSI : MSI217 - [edt]
@@ -6601,7 +6601,7 @@ DTSTAMP:20230429T141502Z
 UID:b20019b227a955e553171795a5a5a930---2375772
 DTSTART;TZID=Europe/Paris:20211011T183000
 DTEND;TZID=Europe/Paris:20211011T200000
-SUMMARY:TEA : Biométrie 2 \,  (TP_S5_6)
+SUMMARY:C1-170512-BIOL - TEA : Biométrie 2 \,  (TP_S5_6)
   - Distanciel [edt]
 DESCRIPTION:C1-170512-BIOL - TEA : Biométrie 2 \,  (TP_S
  5_6) - Distanciel [edt]
@@ -6621,7 +6621,7 @@ DTSTAMP:20230429T141502Z
 UID:1031c8100a0a75dd23cfde9b41c5c7ac---2375773
 DTSTART;TZID=Europe/Paris:20211018T183000
 DTEND;TZID=Europe/Paris:20211018T200000
-SUMMARY:TEA : Biométrie 2 \,  (TP_S5_6)
+SUMMARY:C1-170512-BIOL - TEA : Biométrie 2 \,  (TP_S5_6)
   - Distanciel [edt]
 DESCRIPTION:C1-170512-BIOL - TEA : Biométrie 2 \,  (TP_S
  5_6) - Distanciel [edt]
@@ -6641,7 +6641,7 @@ DTSTAMP:20230429T141502Z
 UID:b4051c1e76ec77cf5c8600d4d9c8215c---2375774
 DTSTART;TZID=Europe/Paris:20211012T183000
 DTEND;TZID=Europe/Paris:20211012T200000
-SUMMARY:TEA : Biométrie 2 \,  (TP_S5_3)
+SUMMARY:C1-170512-BIOL - TEA : Biométrie 2 \,  (TP_S5_3)
   - Distanciel [edt]
 DESCRIPTION:C1-170512-BIOL - TEA : Biométrie 2 \,  (TP_S
  5_3) - Distanciel [edt]
@@ -6661,7 +6661,7 @@ DTSTAMP:20230429T141502Z
 UID:91bd344042d2553a68b6e63900244bbc---2375775
 DTSTART;TZID=Europe/Paris:20211019T183000
 DTEND;TZID=Europe/Paris:20211019T200000
-SUMMARY:TEA : Biométrie 2 \,  (TP_S5_3)
+SUMMARY:C1-170512-BIOL - TEA : Biométrie 2 \,  (TP_S5_3)
   - Distanciel [edt]
 DESCRIPTION:C1-170512-BIOL - TEA : Biométrie 2 \,  (TP_S
  5_3) - Distanciel [edt]
@@ -6681,7 +6681,7 @@ DTSTAMP:20230429T141502Z
 UID:8815e5be59b1d1b11e4a6798be1a4be9---2375767
 DTSTART;TZID=Europe/Paris:20211022T164500
 DTEND;TZID=Europe/Paris:20211022T181500
-SUMMARY:TEA : Biométrie 2 \,  (TP_S5_7)
+SUMMARY:C1-170512-BIOL - TEA : Biométrie 2 \,  (TP_S5_7)
   - Distanciel [edt]
 DESCRIPTION:C1-170512-BIOL - TEA : Biométrie 2 \,  (TP_S
  5_7) - Distanciel [edt]
@@ -6701,7 +6701,7 @@ DTSTAMP:20230429T141502Z
 UID:3da54807045082fe87ecfbe7da81f715---2375770
 DTSTART;TZID=Europe/Paris:20210927T183000
 DTEND;TZID=Europe/Paris:20210927T200000
-SUMMARY:TEA : Biométrie 2 \,  (TP_S5_6)
+SUMMARY:C1-170512-BIOL - TEA : Biométrie 2 \,  (TP_S5_6)
   - Distanciel [edt]
 DESCRIPTION:C1-170512-BIOL - TEA : Biométrie 2 \,  (TP_S
  5_6) - Distanciel [edt]
@@ -6721,7 +6721,7 @@ DTSTAMP:20230429T141502Z
 UID:ae5b68110f030aad91b27a47d5efce79---2374419
 DTSTART;TZID=Europe/Paris:20211130T131500
 DTEND;TZID=Europe/Paris:20211130T144500
-SUMMARY:TP : Population dynamics \,  (T
+SUMMARY:C1-170511-BIOL - TP : Population dynamics \,  (T
  P_S5_4) - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170511-BIOL - TP : Population dynamics \,
    (TP_S5_4) - MSI : MSI217 - [edt]
@@ -6741,7 +6741,7 @@ DTSTAMP:20230429T141502Z
 UID:d4c2debc2f972bc30f2f86560e20551b---2374420
 DTSTART;TZID=Europe/Paris:20211116T131500
 DTEND;TZID=Europe/Paris:20211116T144500
-SUMMARY:TP : Population dynamics \,  (T
+SUMMARY:C1-170511-BIOL - TP : Population dynamics \,  (T
  P_S5_4) - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170511-BIOL - TP : Population dynamics \,
    (TP_S5_4) - MSI : MSI217 - [edt]
@@ -6781,7 +6781,7 @@ DTSTAMP:20230429T141502Z
 UID:793033739b5ccc08fc5ab7ceef2d784b---2374401
 DTSTART;TZID=Europe/Paris:20211115T164500
 DTEND;TZID=Europe/Paris:20211115T181500
-SUMMARY:TP : Population dynamics \,  (T
+SUMMARY:C1-170511-BIOL - TP : Population dynamics \,  (T
  P_S5_5) - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170511-BIOL - TP : Population dynamics \,
    (TP_S5_5) - MSI : MSI217 - [edt]
@@ -6801,7 +6801,7 @@ DTSTAMP:20230429T141502Z
 UID:1f4ec413619a008fc7cc8568cb33f7bb---2374402
 DTSTART;TZID=Europe/Paris:20211129T164500
 DTEND;TZID=Europe/Paris:20211129T181500
-SUMMARY:TP : Population dynamics \,  (T
+SUMMARY:C1-170511-BIOL - TP : Population dynamics \,  (T
  P_S5_5) - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170511-BIOL - TP : Population dynamics \,
    (TP_S5_5) - MSI : MSI217 - [edt]
@@ -6821,7 +6821,7 @@ DTSTAMP:20230429T141502Z
 UID:80b46cea34a322996c57d67ee5005de1---2374403
 DTSTART;TZID=Europe/Paris:20211122T164500
 DTEND;TZID=Europe/Paris:20211122T181500
-SUMMARY:TP : Population dynamics \,  (T
+SUMMARY:C1-170511-BIOL - TP : Population dynamics \,  (T
  P_S5_5) - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170511-BIOL - TP : Population dynamics \,
    (TP_S5_5) - MSI : MSI217 - [edt]
@@ -6841,7 +6841,7 @@ DTSTAMP:20230429T141502Z
 UID:6a317040db09fd6c0d99548fcca4b80f---2374418
 DTSTART;TZID=Europe/Paris:20211123T131500
 DTEND;TZID=Europe/Paris:20211123T144500
-SUMMARY:TP : Population dynamics \,  (T
+SUMMARY:C1-170511-BIOL - TP : Population dynamics \,  (T
  P_S5_4) - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170511-BIOL - TP : Population dynamics \,
    (TP_S5_4) - MSI : MSI217 - [edt]
@@ -6881,7 +6881,7 @@ DTSTAMP:20230429T141502Z
 UID:16b159f569311e50ea330fd695adc354---2374422
 DTSTART;TZID=Europe/Paris:20211130T150000
 DTEND;TZID=Europe/Paris:20211130T163000
-SUMMARY:TP : Population dynamics \,  (T
+SUMMARY:C1-170511-BIOL - TP : Population dynamics \,  (T
  P_S5_3) - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170511-BIOL - TP : Population dynamics \,
    (TP_S5_3) - MSI : MSI217 - [edt]
@@ -6921,7 +6921,7 @@ DTSTAMP:20230429T141502Z
 UID:02d37f5768f4ebe2e2e5766cecb8d8fa---2374423
 DTSTART;TZID=Europe/Paris:20211116T150000
 DTEND;TZID=Europe/Paris:20211116T163000
-SUMMARY:TP : Population dynamics \,  (T
+SUMMARY:C1-170511-BIOL - TP : Population dynamics \,  (T
  P_S5_3) - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170511-BIOL - TP : Population dynamics \,
    (TP_S5_3) - MSI : MSI217 - [edt]
@@ -6961,7 +6961,7 @@ DTSTAMP:20230429T141502Z
 UID:f6345c0f2b26f41a3d9cb65f6bda1918---2374440
 DTSTART;TZID=Europe/Paris:20211123T164500
 DTEND;TZID=Europe/Paris:20211123T181500
-SUMMARY:TP : Population dynamics \,  (T
+SUMMARY:C1-170511-BIOL - TP : Population dynamics \,  (T
  P_S5_2) - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170511-BIOL - TP : Population dynamics \,
    (TP_S5_2) - MSI : MSI217 - [edt]
@@ -7001,7 +7001,7 @@ DTSTAMP:20230429T141502Z
 UID:7fa059784d625a2aaef6a0ae9f7eeeb7---2374441
 DTSTART;TZID=Europe/Paris:20211130T164500
 DTEND;TZID=Europe/Paris:20211130T181500
-SUMMARY:TP : Population dynamics \,  (T
+SUMMARY:C1-170511-BIOL - TP : Population dynamics \,  (T
  P_S5_2) - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170511-BIOL - TP : Population dynamics \,
    (TP_S5_2) - MSI : MSI217 - [edt]
@@ -7101,7 +7101,7 @@ DTSTAMP:20230429T141502Z
 UID:f088db0080f2b7cef88fbfca1d10242f---2374421
 DTSTART;TZID=Europe/Paris:20211123T150000
 DTEND;TZID=Europe/Paris:20211123T163000
-SUMMARY:TP : Population dynamics \,  (T
+SUMMARY:C1-170511-BIOL - TP : Population dynamics \,  (T
  P_S5_3) - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170511-BIOL - TP : Population dynamics \,
    (TP_S5_3) - MSI : MSI217 - [edt]
@@ -7141,7 +7141,7 @@ DTSTAMP:20230429T141502Z
 UID:30f7a830989edbdd8c169538897c39b8---2374370
 DTSTART;TZID=Europe/Paris:20211015T150000
 DTEND;TZID=Europe/Paris:20211015T163000
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_7) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_7) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _7) - MSI : MSI217 - [edt]
@@ -7161,7 +7161,7 @@ DTSTAMP:20230429T141502Z
 UID:c42fe4d5c34cbe5a3b91067e49c89798---2374377
 DTSTART;TZID=Europe/Paris:20211122T131500
 DTEND;TZID=Europe/Paris:20211122T144500
-SUMMARY:TP : Population dynamics \,  (T
+SUMMARY:C1-170511-BIOL - TP : Population dynamics \,  (T
  P_S5_7) - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170511-BIOL - TP : Population dynamics \,
    (TP_S5_7) - MSI : MSI217 - [edt]
@@ -7181,7 +7181,7 @@ DTSTAMP:20230429T141502Z
 UID:cc662ec8501f1d77fd5800140633cd83---2374378
 DTSTART;TZID=Europe/Paris:20211129T131500
 DTEND;TZID=Europe/Paris:20211129T144500
-SUMMARY:TP : Population dynamics \,  (T
+SUMMARY:C1-170511-BIOL - TP : Population dynamics \,  (T
  P_S5_7) - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170511-BIOL - TP : Population dynamics \,
    (TP_S5_7) - MSI : MSI217 - [edt]
@@ -7201,7 +7201,7 @@ DTSTAMP:20230429T141502Z
 UID:ef4fcb76325714cfde3b2c12418c9285---2374353
 DTSTART;TZID=Europe/Paris:20211018T164500
 DTEND;TZID=Europe/Paris:20211018T181500
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_6) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_6) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _6) - MSI : MSI217 - [edt]
@@ -7221,7 +7221,7 @@ DTSTAMP:20230429T141502Z
 UID:284ada4df54c6fa3ef5558103ed49761---2374354
 DTSTART;TZID=Europe/Paris:20211025T164500
 DTEND;TZID=Europe/Paris:20211025T181500
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_6) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_6) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _6) - MSI : MSI217 - [edt]
@@ -7241,7 +7241,7 @@ DTSTAMP:20230429T141502Z
 UID:a13485366a161952480d6af1e5db2a86---2374367
 DTSTART;TZID=Europe/Paris:20211022T150000
 DTEND;TZID=Europe/Paris:20211022T163000
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_7) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_7) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _7) - MSI : MSI217 - [edt]
@@ -7261,7 +7261,7 @@ DTSTAMP:20230429T141502Z
 UID:b93a5246b5516586bbad23c4e64e28b5---2374369
 DTSTART;TZID=Europe/Paris:20211029T150000
 DTEND;TZID=Europe/Paris:20211029T163000
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_7) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_7) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _7) - MSI : MSI217 - [edt]
@@ -7321,7 +7321,7 @@ DTSTAMP:20230429T141502Z
 UID:aebed5cd07bf7becf028b5d420fcd320---2374379
 DTSTART;TZID=Europe/Paris:20211115T131500
 DTEND;TZID=Europe/Paris:20211115T144500
-SUMMARY:TP : Population dynamics \,  (T
+SUMMARY:C1-170511-BIOL - TP : Population dynamics \,  (T
  P_S5_7) - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170511-BIOL - TP : Population dynamics \,
    (TP_S5_7) - MSI : MSI217 - [edt]
@@ -7361,7 +7361,7 @@ DTSTAMP:20230429T141502Z
 UID:ff79a328caa95a061f441bb0d8ab46c0---2374381
 DTSTART;TZID=Europe/Paris:20211129T150000
 DTEND;TZID=Europe/Paris:20211129T163000
-SUMMARY:TP : Population dynamics \,  (T
+SUMMARY:C1-170511-BIOL - TP : Population dynamics \,  (T
  P_S5_6) - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170511-BIOL - TP : Population dynamics \,
    (TP_S5_6) - MSI : MSI217 - [edt]
@@ -7401,7 +7401,7 @@ DTSTAMP:20230429T141502Z
 UID:38c11c101d803a327f38c885d3d1dbd7---2374382
 DTSTART;TZID=Europe/Paris:20211122T150000
 DTEND;TZID=Europe/Paris:20211122T163000
-SUMMARY:TP : Population dynamics \,  (T
+SUMMARY:C1-170511-BIOL - TP : Population dynamics \,  (T
  P_S5_6) - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170511-BIOL - TP : Population dynamics \,
    (TP_S5_6) - MSI : MSI217 - [edt]
@@ -7441,7 +7441,7 @@ DTSTAMP:20230429T141502Z
 UID:d66171c37306cfa290e54a869e28de24---2374383
 DTSTART;TZID=Europe/Paris:20211115T150000
 DTEND;TZID=Europe/Paris:20211115T163000
-SUMMARY:TP : Population dynamics \,  (T
+SUMMARY:C1-170511-BIOL - TP : Population dynamics \,  (T
  P_S5_6) - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170511-BIOL - TP : Population dynamics \,
    (TP_S5_6) - MSI : MSI217 - [edt]
@@ -7561,7 +7561,7 @@ DTSTAMP:20230429T141502Z
 UID:25e63e2395d5d44569d018498f6fa790---2374334
 DTSTART;TZID=Europe/Paris:20211025T131500
 DTEND;TZID=Europe/Paris:20211025T144500
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_4) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_4) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _4) - MSI : MSI217 - [edt]
@@ -7581,7 +7581,7 @@ DTSTAMP:20230429T141502Z
 UID:259472416e9022c553e042e05e6c0af5---2374336
 DTSTART;TZID=Europe/Paris:20210927T150000
 DTEND;TZID=Europe/Paris:20210927T163000
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_5) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_5) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _5) - MSI : MSI217 - [edt]
@@ -7621,7 +7621,7 @@ DTSTAMP:20230429T141502Z
 UID:f1fb40904ec5b312681d91bb5cf9b2ea---2374337
 DTSTART;TZID=Europe/Paris:20211018T150000
 DTEND;TZID=Europe/Paris:20211018T163000
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_5) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_5) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _5) - MSI : MSI217 - [edt]
@@ -7661,7 +7661,7 @@ DTSTAMP:20230429T141502Z
 UID:8b75ac38cf0f1fb77d30008a7738c7e3---2374338
 DTSTART;TZID=Europe/Paris:20211025T150000
 DTEND;TZID=Europe/Paris:20211025T163000
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_5) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_5) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _5) - MSI : MSI217 - [edt]
@@ -7701,7 +7701,7 @@ DTSTAMP:20230429T141502Z
 UID:776c9bd92774680fea83608056f030d1---2374329
 DTSTART;TZID=Europe/Paris:20211012T164500
 DTEND;TZID=Europe/Paris:20211012T181500
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_3) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_3) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _3) - MSI : MSI217 - [edt]
@@ -7721,7 +7721,7 @@ DTSTAMP:20230429T141502Z
 UID:6757465920a0a5859c82cbfe01209da8---2374331
 DTSTART;TZID=Europe/Paris:20210927T131500
 DTEND;TZID=Europe/Paris:20210927T144500
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_4) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_4) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _4) - MSI : MSI217 - [edt]
@@ -7741,7 +7741,7 @@ DTSTAMP:20230429T141502Z
 UID:bc0760c8b36c53803d8598eb0c69278c---2374332
 DTSTART;TZID=Europe/Paris:20211018T131500
 DTEND;TZID=Europe/Paris:20211018T144500
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_4) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_4) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _4) - MSI : MSI217 - [edt]
@@ -7761,7 +7761,7 @@ DTSTAMP:20230429T141502Z
 UID:f2dcc9ae8eb4c6ce7a553b4796d2123b---2374333
 DTSTART;TZID=Europe/Paris:20211011T131500
 DTEND;TZID=Europe/Paris:20211011T144500
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_4) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_4) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _4) - MSI : MSI217 - [edt]
@@ -7801,7 +7801,7 @@ DTSTAMP:20230429T141502Z
 UID:a15a32b95b6fbae339a65ad4dbfc9bd5---2374339
 DTSTART;TZID=Europe/Paris:20211011T150000
 DTEND;TZID=Europe/Paris:20211011T163000
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_5) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_5) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _5) - MSI : MSI217 - [edt]
@@ -7841,7 +7841,7 @@ DTSTAMP:20230429T141502Z
 UID:4406a3f1e695d3909126a138e1a65102---2374351
 DTSTART;TZID=Europe/Paris:20210927T164500
 DTEND;TZID=Europe/Paris:20210927T181500
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_6) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_6) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _6) - MSI : MSI217 - [edt]
@@ -7881,7 +7881,7 @@ DTSTAMP:20230429T141502Z
 UID:cd60116ff79d81b67583d4552d0d741c---2374352
 DTSTART;TZID=Europe/Paris:20211011T164500
 DTEND;TZID=Europe/Paris:20211011T181500
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_6) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_6) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _6) - MSI : MSI217 - [edt]
@@ -7981,7 +7981,7 @@ DTSTAMP:20230429T141502Z
 UID:8d6433dd3e3341f80aae67325fe1fe46---2374321
 DTSTART;TZID=Europe/Paris:20211012T150000
 DTEND;TZID=Europe/Paris:20211012T163000
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_2) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_2) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _2) - MSI : MSI217 - [edt]
@@ -8001,7 +8001,7 @@ DTSTAMP:20230429T141502Z
 UID:d50489e8a8f1bfff79d40481d5b8632c---2374322
 DTSTART;TZID=Europe/Paris:20210928T150000
 DTEND;TZID=Europe/Paris:20210928T163000
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_2) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_2) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _2) - MSI : MSI217 - [edt]
@@ -8021,7 +8021,7 @@ DTSTAMP:20230429T141502Z
 UID:25de7aa06fd30d9cb45c780fb74f5de1---2374323
 DTSTART;TZID=Europe/Paris:20211026T150000
 DTEND;TZID=Europe/Paris:20211026T163000
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_2) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_2) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _2) - MSI : MSI217 - [edt]
@@ -8061,7 +8061,7 @@ DTSTAMP:20230429T141502Z
 UID:12d3ccd9cd3f3fb702adafb788dc5d2c---2374324
 DTSTART;TZID=Europe/Paris:20211019T150000
 DTEND;TZID=Europe/Paris:20211019T163000
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_2) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_2) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _2) - MSI : MSI217 - [edt]
@@ -8101,7 +8101,7 @@ DTSTAMP:20230429T141502Z
 UID:ccac31a7d263db95c8414fc3b0817d11---2373523
 DTSTART;TZID=Europe/Paris:20210908T080000
 DTEND;TZID=Europe/Paris:20210908T093000
-SUMMARY:TP : Communication scientifique
+SUMMARY:C1-280101-ECOL - TP : Communication scientifique
   et technique \,  (TP_GGL) - PAS : 015 - [edt]
 DESCRIPTION:C1-280101-ECOL - TP : Communication scientif
  ique et technique \,  (TP_GGL) - PAS : 015 - [edt]
@@ -8121,7 +8121,7 @@ DTSTAMP:20230429T141502Z
 UID:4fd0f6df79b2e502b5cd8b704f6c44dc---2374318
 DTSTART;TZID=Europe/Paris:20211012T131500
 DTEND;TZID=Europe/Paris:20211012T144500
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_1) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_1) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _1) - MSI : MSI217 - [edt]
@@ -8141,7 +8141,7 @@ DTSTAMP:20230429T141502Z
 UID:c0d6cc8fa75d337554b2ed36709de49c---2374319
 DTSTART;TZID=Europe/Paris:20211019T131500
 DTEND;TZID=Europe/Paris:20211019T144500
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_1) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_1) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _1) - MSI : MSI217 - [edt]
@@ -8161,7 +8161,7 @@ DTSTAMP:20230429T141502Z
 UID:83783a6cb09688888c243c007d94ceca---2374320
 DTSTART;TZID=Europe/Paris:20211026T131500
 DTEND;TZID=Europe/Paris:20211026T144500
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_1) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_1) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _1) - MSI : MSI217 - [edt]
@@ -8181,7 +8181,7 @@ DTSTAMP:20230429T141502Z
 UID:4ca7e4a9ce0196f925232c1d56daf8e5---2374326
 DTSTART;TZID=Europe/Paris:20211026T164500
 DTEND;TZID=Europe/Paris:20211026T181500
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_3) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_3) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _3) - MSI : MSI217 - [edt]
@@ -8241,7 +8241,7 @@ DTSTAMP:20230429T141502Z
 UID:d889453e98f748690df222195cf4583c---2374327
 DTSTART;TZID=Europe/Paris:20211019T164500
 DTEND;TZID=Europe/Paris:20211019T181500
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_3) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_3) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _3) - MSI : MSI217 - [edt]
@@ -8281,7 +8281,7 @@ DTSTAMP:20230429T141502Z
 UID:320dceaa591941c09729b6c65cfaca62---2374328
 DTSTART;TZID=Europe/Paris:20210928T164500
 DTEND;TZID=Europe/Paris:20210928T181500
-SUMMARY:TP : Biométrie 2 \,  (TP_S5_3) 
+SUMMARY:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5_3) 
  - MSI : MSI217 - [edt]
 DESCRIPTION:C1-170512-BIOL - TP : Biométrie 2 \,  (TP_S5
  _3) - MSI : MSI217 - [edt]
@@ -8401,7 +8401,7 @@ DTSTAMP:20230429T141502Z
 UID:ff56d60c7cb5cf901b95c0a7ce8049ed---2371935
 DTSTART;TZID=Europe/Paris:20210906T113000
 DTEND;TZID=Europe/Paris:20210906T130000
-SUMMARY:TP : Communication scientifique
+SUMMARY:C1-280101-ECOL - TP : Communication scientifique
   et technique \,  (TP_GAGL) - ORB : C29 - [edt]
 DESCRIPTION:C1-280101-ECOL - TP : Communication scientif
  ique et technique \,  (TP_GAGL) - ORB : C29 - [edt]
