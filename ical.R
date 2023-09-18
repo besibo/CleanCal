@@ -8,7 +8,7 @@ options(tidyverse.quiet = TRUE)
 library(calendar)
 library(tidyverse)
 
-ic_read("https://apps.univ-lr.fr/serveur-planning/wa/iCalendarOccupations?login=bsimonbo") %>% 
+ic_read("https://apps.univ-lr.fr/cgi-bin/WebObjects/ServeurPlanning.woa/wa/iCalendarOccupations?login=bsimonbo") %>% 
   mutate(SUMMARY = str_remove(SUMMARY, "^B.Simon-bouhet  - "),
          SUMMARY = str_remove(SUMMARY, "^B. Simon-bouhet  - "),
          SUMMARY = str_remove(SUMMARY, "^C\\d{1}-.{14}"),
