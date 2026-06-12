@@ -20,7 +20,7 @@ on run argv
   set exitCode to item 1 of argv
   set projectDir to item 2 of argv
   set logFile to item 3 of argv
-  set messageText to "La mise à jour du calendrier CleanCal a echoué." & return & return & "Le calendrier abonné n'est peut-être plus à jour." & return & return & "Code de sortie : " & exitCode & return & "Log : " & logFile
+  set messageText to "La mise à jour du calendrier CleanCal a échoué." & return & return & "Le calendrier abonné n'est peut-être plus à jour." & return & return & "Code de sortie : " & exitCode & return & "Log : " & logFile
 
   set userChoice to button returned of (display dialog messageText with title "CleanCal a echoue" buttons {"Ignorer", "Afficher"} default button "Afficher" with icon caution)
 
