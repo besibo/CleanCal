@@ -2,5 +2,6 @@
 .Rproj.user
 .Rhistory
 .RData
-.Ruserdata" > .gitignore
+.Ruserdata
 .DS_Store
+logs/
