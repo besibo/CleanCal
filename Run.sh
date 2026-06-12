@@ -51,6 +51,11 @@ trap on_error ERR
 
   cd "$PROJECT_DIR"
 
+  if [[ "${CLEANCAL_FORCE_FAILURE:-0}" == "1" ]]; then
+    echo "[$(date)] Forced failure requested for alert testing"
+    false
+  fi
+
   Rscript -e "missing <- setdiff(c('calendar', 'tidyverse'), rownames(installed.packages())); if (length(missing)) stop('Missing R package(s): ', paste(missing, collapse = ', '), call. = FALSE)"
   Rscript ical.R
   # Rscript -e "bookdown::render_book()"
