@@ -7,40 +7,41 @@ PROJECT_DIR="/Users/bsimonbo/Documents/TAF/Enseignements/CleanCal"
 LOG_DIR="$PROJECT_DIR/logs"
 LOG_FILE="$LOG_DIR/cleancal.log"
 LAST_SUCCESS_FILE="$LOG_DIR/last-success.txt"
-MAIL_TO="besibo@gmail.com"
 
 mkdir -p "$LOG_DIR"
 
-send_failure_mail() {
+send_failure_notification() {
   local exit_code="$1"
-  local subject="[CleanCal] Echec du cron job"
-  local body
 
-  body=$(cat <<EOF
-Le cron job CleanCal a echoue.
+  if command -v osascript >/dev/null 2>&1; then
+    osascript - "$exit_code" "$PROJECT_DIR" "$LOG_FILE" <<'APPLESCRIPT' \
+      || true
+on run argv
+  set exitCode to item 1 of argv
+  set projectDir to item 2 of argv
+  set logFile to item 3 of argv
+  set messageText to "La mise a jour du calendrier simplifie CleanCal a echoue." & return & return & "Ton calendrier abonne peut etre obsolete." & return & return & "Code de sortie : " & exitCode & return & "Log : " & logFile
 
-Date: $(date)
-Machine: $(hostname)
-Dossier: $PROJECT_DIR
-Code de sortie: $exit_code
+  set userChoice to button returned of (display dialog messageText with title "CleanCal a echoue" buttons {"Ignorer", "Afficher"} default button "Afficher" with icon caution)
 
-Dernieres lignes du log:
-
-$(tail -n 80 "$LOG_FILE" 2>/dev/null || true)
-EOF
-)
-
-  if command -v mail >/dev/null 2>&1; then
-    printf '%s\n' "$body" | mail -s "$subject" "$MAIL_TO" || true
+  if userChoice is "Afficher" then
+    set projectFolder to POSIX file projectDir as alias
+    tell application "Finder"
+      open projectFolder
+      activate
+    end tell
+  end if
+end run
+APPLESCRIPT
   else
-    printf '%s\n' "Impossible d'envoyer l'alerte: commande mail introuvable." >&2
+    printf '%s\n' "Impossible d'afficher l'alerte: commande osascript introuvable." >&2
   fi
 }
 
 on_error() {
   local exit_code="$?"
   echo "[$(date)] ERROR CleanCal failed with exit code $exit_code"
-  send_failure_mail "$exit_code"
+  send_failure_notification "$exit_code"
   exit "$exit_code"
 }
 
